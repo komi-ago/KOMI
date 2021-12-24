@@ -35,7 +35,7 @@ When everything is synced, you will update the GitHub README file, which will ex
 
 You will also use your GitHub account for other activities in the course.
 
-Required Files
+##Required Files
 
 
 Ansible YAML scripts from the Cloud Security Unit.
@@ -62,7 +62,7 @@ Gather all of the network diagrams you created during the weeks on cloud securit
 
 
 
-Your Goals
+##Your Goals
 
 
 Create a GitHub repository for all of your files.
@@ -89,13 +89,13 @@ git push origin --set-upstream <-branch->
 
 
 
-Submission
+##Submission
 You will submit this assignment by submitting the link of your Github repository onto BCS.
 
 
-Instructions
+##Instructions
 
-Part 1: Setting Up Your Repo
+##Part 1: Setting Up Your Repo
 
 
 Create your GitHub repository.
@@ -122,7 +122,7 @@ Enter your GitHub username and password to complete the download.
 
 
 
-Part 2: Adding Files
+##Part 2: Adding Files
 
 
 Once you have the repository downloaded, copy your scripts and diagrams into it.
@@ -160,7 +160,7 @@ Go to github.com and confirm your content is there.
 
 
 
-Part 3: Adding Your Project Files
+##Part 3: Adding Your Project Files
 
 
 Add the README file and associated files that you created during Day 3 of the project week.
@@ -173,7 +173,7 @@ Make any desired changes and click Commit Changes at the bottom of the screen.
 Note: READMEs are written in Markdown. This Markdown Cheatsheet has more information about writing in Markdown.
 
 
- Instructions for creating your README.md
+ ##Instructions for creating your README.md
  
 The following is a duplicate of the instructions from the Day 3 README activity. If needed, refer to these instruction to complete your README.
 
